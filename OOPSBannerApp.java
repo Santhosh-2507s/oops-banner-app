@@ -2,7 +2,7 @@
  * OOPSBannerApp
  * UC2 - Display OOPS as ASCII banner using print statements
  *
- * @author Sai Suraj
+ * @author Nava Santhosh
  * @version 2.0
  */
 public class OOPSBannerApp {
